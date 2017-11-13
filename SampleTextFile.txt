@@ -1,1 +1,1 @@
-Adding text to bug 1234
+Adding text to bug 1234 & 1231
